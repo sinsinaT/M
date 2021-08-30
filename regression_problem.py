@@ -98,5 +98,7 @@ def run():
     b, m = prediction_model()
     print(m, b)
 
+
+
 if __name__ == '__main__':
     run()
